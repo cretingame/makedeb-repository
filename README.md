@@ -5,3 +5,4 @@ Debian is an amazing Linux distribution, which is very stable. Its stability is 
 ## Packages from other sources
 
 * Chezmoi: https://github.com/twpayne/chezmoi/releases/tag/v2.52.3
+* fzf: https://github.com/junegunn/fzf/releases/tag/v0.55.0
