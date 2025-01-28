@@ -1,5 +1,5 @@
 *.deb
 */pkg/
 */src/
-neovim/neovim*
+neovim/neovim-*
 
